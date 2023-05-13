@@ -1,0 +1,27 @@
+Personagem:
+	 - Classe
+		- Poderes
+	 	- Poderes passivos
+		- História
+	 - Armas
+	 - Armaduras
+	 - Inventário
+	 - Atributos
+	 - hud
+		- Status
+		- HP
+		- MP
+		- XP
+		- Ações
+			 - Atacar (Aparece apenas em combate)
+			 - Abrir a mochila
+			 - Fugir (Aparece em combate)
+			 - Acampar/dormir (Aparece apenas no caminho)
+			 - andar (Aparece apenas fora do combate)
+				- Escolher locais para ir (Loja, hotel, taverna, cidades próximas, cavernas 				próximas)
+	 - level
+	 - Status (envenenado, sangrnado, congelado, com medo)
+	 - Ações
+-------------------------------------------------------------------------------------------------
+
+
