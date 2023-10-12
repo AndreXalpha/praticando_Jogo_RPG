@@ -1,0 +1,70 @@
+(Nome do Jogo) - Game Design Document
+
+Sumário:
+	1.0 - Resumo executivo:
+		1.1 - Introdução
+	2.0 - Visão geral do jogo:
+		2.1 - Descrição do mundo. 
+		2.2 - sua ambientação. 
+		2.3 - estilo e atmosfera. 
+		2.4 - história.
+		2.5 - principais elementos de jogabilidade.
+	3.0 - Mecânicas do jogo:
+		3.1 - Combate.
+		3.2 - Magia.
+		3.3 - Inventário.
+		3.4 - Itens
+		3.5 - Sistema de lvl up
+		3.6 - mecanica de locomoção
+		3.6 - Seus relacionamentos (Entre cada mecânica)
+	4.0 - Personagens:
+		4.1 - Personagens Principais.
+			4.1.1 - Histórias
+			4.1.2 - Características
+			4.1.3 - habilidades
+			4.1.4 - personalidades
+			4.1.5 - motivações
+		4.2 - Personagens secundários.
+		4.3 - Antagonistas
+	5.0 - Progressão do personagem:
+		5.1 - Sistema de níveis
+		5.2 - Pontos de experiência
+		5.3 - habilidades desbloqueáveis
+		5.4 - árvore de talentos
+		//5.5 - equipamentos
+	6.0 - Missões e objetivos:
+		6.1 - Missões principais
+		6.2 - Missões secundárias
+	7.0 - Mundo e níveis:
+		7.1 - Cidades
+		7.2 - masmorras
+		7.3 - caminhos para outros locais
+		7.4 - Nível específico
+	8.0 - Interface de usuário:
+		8.1 - Interface de inicio de jogo
+		8.2 - Interface de combate
+		8.3 - Interface de inventário
+		8.4 - Interface da cidade
+		8.5 - Interface de diálogo
+		
+
+1.0 - Resumo executivo:
+	É um jogo de RPG com temática medieval, podendo ter elementos tecnológicos pontuais, a histária será contada através de narrativas, textos e talvez som. A mecânica central terá a premissa basica de um jogo de RPG, com combates em turnos, exploração do ambiente através de masmorras e lugares específicos. O deslocamento do personagem será feito através de turnos, onde cada turno poderá haver um hevento. 
+	O jogo terá uma história principal e uma história secundária (Dependendo da classe escolhida), além disso terão as missões secundárias e as missões principais.
+
+2.0 - Visão geral do jogo:
+	2.1 - Descrição do mundo:
+		O universo do jogo é ambientado em um mundo de fantasia medieval, onde existem classes e raças diversas, a ideia é que o jogador se sinta livre a explorar as 7 cidades, sendo elas (nome, nome, nome, nome, nome, nome, nome), e conhecesse a história e o henredo de cada uma delas, através de heventos da missão principal, e pequenas quests secundárias.
+	2.2 - Sua ambientação:
+		Em geral, seria uma ambientação feliz, (algo prazerozo de se imaginar), mas cada cidade teria sua própria ambientação, e nem tudo é alegria.
+	2.3 - Estilo e atmosfera:
+		Será um jogo de narrativa, talvez com som, e sua atmosferá será passada em forma de leitura.
+	2.4 - História:
+		
+		
+
+
+
+
+
+		
